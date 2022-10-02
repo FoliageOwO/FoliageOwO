@@ -1,6 +1,6 @@
-## print(" hi there \o/ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
+## print(" hi there (//>▽<//) ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27"> ![vistors](https://visitor-badge.glitch.me/badge?page_id=windleaf233.windleaf233&style=for-the-badge)
 
-### About Me ![vistors](https://visitor-badge.glitch.me/badge?page_id=windleaf233.windleaf233&style=for-the-badge)
+### About Me
 
 <a href="https://windleaf.ml/" target="_blank"> <img src="https://img.shields.io/badge/Blog-WindLeaf's Blog-%23333?style=for-the-badge" alt="Blog" /> </a>
 
