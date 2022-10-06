@@ -1,4 +1,10 @@
-## print(" hi there (//>▽<//) ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27"> ![vistors](https://visitor-badge.glitch.me/badge?page_id=windleaf233.windleaf233&style=for-the-badge)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=35&duration=4000&center=true&vCenter=true&multiline=false&width=500&height=100&lines=Hi👋我是WindLeaf233;咕咕咕咕咕咕咕咕咕咕咕咕)
+
+<h1 align="center">访客数</h1>
+
+![:WindLeaf233](https://count.getloli.com/get/@WindLeaf233?theme=rule34)
+
+## print(" hi there (//>▽<//) ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
 
 ### About Me
 
