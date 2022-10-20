@@ -52,6 +52,6 @@ const myContacts = {
   gitee: "https://gitee.com/WindLeaf_qwq",
   twitter: "https://twitter.com/windleaf_qwq",
   telegram: "https://t.me/WindLeaf_qwq",
-  email: ["me#windleaf.ml"]
+  email: ["me#windleaf.ml"] // replace `#` to `@`
 }
 ```
