@@ -26,10 +26,10 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
-- 🔥 Learning `Kotlin`, `Java`, `Python`, *`Vue`*, *`React`*
-- 👨‍🎓 A senior high student from Xinjiang, China
-- 🎮 Besides, **I like Minecraft VERY MUCH**
-- 🎵 I'm interested in **Pop & EDM** music
+- 🔥 Learning `Kotlin`, `Java`, `Python`, `JS/TS`, *`Vue`*, *`React`*
+- 👨‍🎓 A senior high student from China
+- 🎮 Besides, **I like Minecraft *Very Much***
+- 🎵 I'm interested in **Pop, Electronic, Trap, Rap** music
 
 ### Stats & Languages I Used
 
@@ -44,7 +44,7 @@
 Wanna contact me? Here are some social media contacts.
 
 ```javascript
-const myContacts = {
+const socialMedia = {
   qq: 3584033226,
   wechat: "WindLeaf_qwq",
   neteaseMusic: "WindLeaf_qwq",
