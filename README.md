@@ -26,7 +26,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </p>
 
-- 🔥 Learning `Kotlin`, `Java`, `Python`, `JS/TS`, *`Vue`*, *`React`*
+- 🔥 Learning `Kotlin/Java`, `Python`, `JS/TS`, *`Vue/React`*
 - 👨‍🎓 A senior high student from China
 - 🎮 Besides, **I like Minecraft *Very Much***
 - 🎵 I'm interested in **Pop, Electronic, Trap, Rap** music
