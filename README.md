@@ -44,14 +44,12 @@
 Wanna contact me? Here are some social media contacts.
 
 ```javascript
-const socialMedia = {
+const me = {
   qq: 3584033226,
   wechat: "WindLeaf_qwq",
   neteaseMusic: "WindLeaf_qwq",
   bilibili: "https://space.bilibili.com/157395160",
   gitee: "https://gitee.com/WindLeaf_qwq",
-  twitter: "https://twitter.com/windleaf_qwq",
-  telegram: "https://t.me/WindLeaf_qwq",
-  email: ["me#windleaf.ml"] // replace `#` to `@`
+  email: "me#windleaf.ml" // replace `#` to `@`
 }
 ```
