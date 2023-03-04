@@ -46,7 +46,6 @@ const me = {
   neteaseMusic: "WindLeaf_qwq",
   bilibili: "https://space.bilibili.com/157395160",
   gitee: "https://gitee.com/WindLeaf_qwq",
-  discord: "WindLeaf#7900",
   email: "me#windleaf.ml" // replace `#` to `@`
 }
 ```
