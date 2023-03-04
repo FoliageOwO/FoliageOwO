@@ -1,4 +1,4 @@
-## print(" hi there (//>▽<//) ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
+## print(" hey u ^o^ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
 
 ![:WindLeaf233](https://count.getloli.com/get/@WindLeaf233?theme=rule34)
 
@@ -24,12 +24,12 @@
   <img alt="Java" src="https://img.shields.io/badge/Java(OpenJDK)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
 </p>
 
-- 🔥 Learning `Kotlin/Java`, `Python`, `JS/TS`, *`Vue/React`*
-- 👨‍🎓 A senior high student from China
-- 🎮 Besides, **Minecraft IS MY FAVORITE GAME**
-- 🎵 Interested in **Pop, Electronic, Rap, Phonk, and so on**
+- 🔥 Learning `Kotlin/Java`, `Python`, `JS/TS`, `C#`, *`Vue/React`*
+- 🎮 **Play Minecraft as FAVORITE GAME**
+- 🎵 Listen to **Pop, Electronic (EDM), Rap, Phonk, and so on**
 
 ### Stats & Languages I Used
 
@@ -41,11 +41,12 @@
 ### Contact
 
 ```javascript
-const WindLeaf233 = {
+const me = {
   qq: 3584033226,
   neteaseMusic: "WindLeaf_qwq",
   bilibili: "https://space.bilibili.com/157395160",
   gitee: "https://gitee.com/WindLeaf_qwq",
+  discord: "WindLeaf#7900",
   email: "me#windleaf.ml" // replace `#` to `@`
 }
 ```
