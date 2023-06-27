@@ -27,9 +27,9 @@
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
 </p>
 
-- 🔥 Learning `Kotlin/Java`, `Python`, `JS/TS`, `C#`, *`Vue/React`*
-- 🎮 **Play Minecraft as FAVORITE GAME**
-- 🎵 Listen to **Pop, Electronic (EDM), Rap, Phonk, and so on**
+- 🔥 Learning  `TypeScript/JavaScript`, `Kotlin/Java`, `Python`, *`React`*
+- 🎮 **Play Minecraft, Forza horizon 4/5**
+- 🎵 Interested in **Pop, Electronic (EDM), Rap** music
 
 ### Stats & Languages I Used
 
@@ -43,7 +43,7 @@
 ```javascript
 const me = {
   qq: 3584033226,
-  neteaseMusic: "WindLeaf_qwq",
+  spotify: "Foliage",
   bilibili: "https://space.bilibili.com/157395160",
   gitee: "https://gitee.com/WindLeaf_qwq",
   email: "me#windleaf.ml" // replace `#` to `@`
