@@ -24,7 +24,6 @@
   <img alt="Java" src="https://img.shields.io/badge/Java(OpenJDK)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
 </p>
 
 - 🔥 Learning  `TypeScript/JavaScript`, `Kotlin/Java`, `Python`, *`React`*
