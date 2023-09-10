@@ -1,46 +1,29 @@
-## print(" hey u ^o^ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
+## println(" Welcome ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
 
 ![:WindLeaf233](https://count.getloli.com/get/@WindLeaf233?theme=rule34)
 
 ### About Me
 
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/Gradle-005C84?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</p>
+```javascript
+const contact = {
+  qq: 3584033226,
+  wechat: "FoliageQwQ",
+  spotify: "Foliage🍃",
+  minecraft: "FoliageOwO",
+  bilibili: "https://space.bilibili.com/157395160",
+  steam: "https://steamcommunity.com/id/foliage_owo",
+  email: "mc.windleaf@foxmail.com",
+};
+```
 
-<p>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java(OpenJDK)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</p>
-
-- 🔥 Learning  `TypeScript/JavaScript`, `Kotlin/Java`, `Python`, *`React`*
-- 🎮 **Minecraft enthusiast**
-- 🎵 Interested in **Pop, Electronic (EDM), Rap** music
+|🔥Progarmming|<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333333" /><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" /><img alt="Java" src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" /><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />|
+|---|---|
+|🎮Gaming|<img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-green?style=for-the-badge&logo=minecraft&logoColor=white" /><img alt="Steam" src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" />|
+|🎵Listening|<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /><img alt="Apple Music" src="https://img.shields.io/badge/Apple Music-FA243C?style=for-the-badge&logo=apple music&logoColor=white" />|
 
 ### Stats & Languages I Used
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindLeaf233&theme=radical" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindLeaf233&theme=radical" /> -->
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=WindLeaf233&theme=radical&show_icons=true&hide=stars&count_private=true&hide_border=true" alt="WindLeaf233's Github Stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindLeaf233&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=WindLeaf233&theme=holi&show_icons=true&count_private=true&hide_border=true" alt="WindLeaf233's Github Stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindLeaf233&layout=compact&theme=holi&hide_border=true" alt="Top Languages"/>|
 |--|--|
-
-### Contact
-
-```javascript
-const me = {
-  qq: 3584033226,
-  spotify: "Foliage",
-  bilibili: "https://space.bilibili.com/157395160",
-  gitee: "https://gitee.com/WindLeaf_qwq",
-  email: "mc.windleaf#foxmail.com" // replace `#` to `@`
-}
-```
