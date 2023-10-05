@@ -8,7 +8,7 @@
 const contact = {
   qq: 3584033226,
   wechat: "FoliageQwQ",
-  spotify: "Foliage🍃",
+  spotify: "FoliageOwO",
   minecraft: "FoliageOwO",
   bilibili: "https://space.bilibili.com/157395160",
   steam: "https://steamcommunity.com/id/foliage_owo",
