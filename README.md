@@ -10,7 +10,7 @@ const me = {
   minecraft: "FoliageOwO",
   bilibili: "https://space.bilibili.com/157395160",
   steam: "https://steamcommunity.com/id/foliage_owo",
-  email: "mc.windleaf@foxmail.com",
+  email: "i@folia.cc",
   interest: {
     game: "Minecraft",
     musicStyle: ["Pop (English only)", "EDM (Melodic Dubstep)"],
@@ -23,11 +23,11 @@ const me = {
 
 ### Stats & Languages I Used
 
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WindLeaf233&theme=radical" /> -->
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FoliageOwO&theme=radical" /> -->
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=WindLeaf233&theme=holi&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile" alt="WindLeaf233's Github Stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindLeaf233&layout=compact&theme=holi&hide_border=true" alt="Top Languages"/>|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=FoliageOwO&theme=holi&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile" alt="FoliageOwO's Github Stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoliageOwO&layout=compact&theme=holi&hide_border=true" alt="Top Languages"/>|
 |--|--|
 
 ### Visit count
 
-![:WindLeaf233](https://count.getloli.com/get/@WindLeaf233?theme=rule34)
+![:FoliageOwO](https://count.getloli.com/get/@FoliageOwO?theme=rule34)
