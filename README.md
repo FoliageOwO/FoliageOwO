@@ -1,7 +1,5 @@
 ## println!(" Bonjour! "); <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
 
-![:WindLeaf233](https://count.getloli.com/get/@WindLeaf233?theme=rule34)
-
 ### About Me
 
 ```javascript
@@ -29,3 +27,7 @@ const me = {
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=WindLeaf233&theme=holi&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile" alt="WindLeaf233's Github Stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindLeaf233&layout=compact&theme=holi&hide_border=true" alt="Top Languages"/>|
 |--|--|
+
+### Visit count
+
+![:WindLeaf233](https://count.getloli.com/get/@WindLeaf233?theme=rule34)
