@@ -28,6 +28,6 @@ const me = {
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=FoliageOwO&theme=holi&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile" alt="FoliageOwO's Github Stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoliageOwO&layout=compact&theme=holi&hide_border=true" alt="Top Languages"/>|
 |--|--|
 
-### Visit count
+### Sponsor Me
 
-![:FoliageOwO](https://count.getloli.com/get/@FoliageOwO?theme=rule34)
+<img src="https://github.com/user-attachments/assets/302838fe-0def-4a97-9a0d-f3c9afa8fde2" alt="微信赞助二维码" width="300px" height="300px" />
