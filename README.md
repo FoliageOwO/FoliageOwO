@@ -1,6 +1,8 @@
-## println!(" Bonjour! "); <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
+## println!("Hi!"); <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">
 
 ### About Me
+
+<img alt="Dart" src="https://img.shields.io/badge/Dart-02579B?&style=for-the-badge&logo=dart&logoColor=white" /><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" /><img alt="Java" src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" /><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img alt="Rust" src="https://img.shields.io/badge/Rust-E33B26?style=for-the-badge&logo=rust&logoColor=white" /><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" /><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 ```javascript
 const me = {
@@ -13,13 +15,11 @@ const me = {
   email: "i@folia.cc",
   interest: {
     game: "Minecraft",
-    musicStyle: ["Pop (English only)", "EDM (Melodic Dubstep)"],
+    musicStyles: ["English Pop", "Mandarin Pop", "R&B", "EDM"],
   },
-  languages: ["English", "Chinese (Simplified)", "French (Learning)"],
+  languages: ["English", "Chinese (Simplified)"],
 };
 ```
-
-<img alt="Rust" src="https://img.shields.io/badge/Rust-E33B26?style=for-the-badge&logo=rust&logoColor=white" /><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" /><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" /><img alt="Java" src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" /><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 ### Stats & Languages I Used
 
