@@ -25,7 +25,7 @@ const me = {
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FoliageOwO&theme=radical" /> -->
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=FoliageOwO&theme=holi&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile" alt="FoliageOwO's Github Stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoliageOwO&layout=compact&theme=holi&hide_border=true" alt="Top Languages"/>|
+|<img align="center" src="https://github-readme-stats.folia.cc/api?username=FoliageOwO&theme=holi&show_icons=true&count_private=true&hide_border=true&rank_icon=percentile" alt="FoliageOwO's Github Stats" />|<img align="center" src="https://github-readme-stats.folia.cc/api/top-langs/?username=FoliageOwO&layout=compact&theme=holi&hide_border=true" alt="Top Languages"/>|
 |--|--|
 
 ### Sponsor Me
