@@ -14,7 +14,7 @@ const me = {
   steam: "https://steamcommunity.com/id/foliage_owo",
   email: "i@folia.cc",
   interest: {
-    game: "Minecraft",
+    games: ["Minecraft", "Valorant", "PUBG", "Counter-Strike 2"],
     musicStyles: ["English Pop", "Mandarin Pop", "R&B", "EDM"],
   },
   languages: ["English", "Chinese (Simplified)"],
